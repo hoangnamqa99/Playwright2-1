@@ -1,1 +1,6 @@
 working directory :  là vị trí hiện tại mà một chương trình đang đứng trong hệ thống tệp tin.
+git inint
+git add text.txt
+git commit -m ' feat : the fisrt commit '
+git remove add origin < SSH > 
+git push origin main
