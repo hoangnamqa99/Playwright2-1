@@ -1,0 +1,2 @@
+working directory :  là vị trí hiện tại mà một chương trình đang đứng trong hệ thống tệp tin.
+staging area : là vùng chờ , nơi lưu trữ bản ' nháp ' và chuẩn bị các thay đổi trước khi được commit 

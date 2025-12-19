@@ -1,0 +1,1 @@
+repository : nơi lưu trữ các staging area đã commit 
